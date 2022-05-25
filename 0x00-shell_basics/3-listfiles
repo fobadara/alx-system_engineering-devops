@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d -l .
+ls -d -l 0x00-shell_basics/3-listfiles/*
